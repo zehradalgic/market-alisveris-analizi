@@ -1,0 +1,6 @@
+-- groceries_dataset tablosunu oluþturur
+--CREATE TABLE groceries_dataset (
+--    member_number INT,
+--    date DATE,
+--    itemdescription VARCHAR(255)
+--);
